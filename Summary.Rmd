@@ -8,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## US Wildfre hotspots 2002-2012
+## US Wildfire hotspots 2002-2012
 Clicking on a bar/label filters other views. Use Ctrl + Left Click to select multiple bars. Left Click in whitespace to undo all filters.You can also click and drag to select multiple points from the density map below.<br>
 Source : NWCG | Wildland Fire Application Information Portal http://famit.nwcg.gov
 <div class='tableauPlaceholder' id='viz1678206093532' style='position: relative'>
