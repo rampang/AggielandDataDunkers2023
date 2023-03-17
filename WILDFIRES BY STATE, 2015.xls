@@ -1,0 +1,285 @@
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  </head>
+  <body>
+    <table>
+    <thead><tr><th></th></tr></thead>    <tbody> <tr class="odd"><td><table>
+<tr><td>WILDFIRES BY STATE, 2015</td></tr>
+<tr><td></td></tr>
+<tr><td><table><colgroup><col/><col/><col/></colgroup>
+<thead>
+<tr>
+<th>State</th>
+<th>Number of fires</th>
+<th>Number of acres burned</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alabama</td>
+<td>3,198</td>
+<td>47,380</td>
+</tr>
+<tr>
+<td>Alaska</td>
+<td>768</td>
+<td>5,111,404</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>1,662</td>
+<td>160,152</td>
+</tr>
+<tr>
+<td>Arkansas</td>
+<td>1,837</td>
+<td>26,630</td>
+</tr>
+<tr>
+<td>California</td>
+<td>8,745</td>
+<td>893,362</td>
+</tr>
+<tr>
+<td>Colorado</td>
+<td>709</td>
+<td>22,602</td>
+</tr>
+<tr>
+<td>Connecticut</td>
+<td>76</td>
+<td>159</td>
+</tr>
+<tr>
+<td>Delaware</td>
+<td>(1)</td>
+<td>(1)</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>2,422</td>
+<td>73,432</td>
+</tr>
+<tr>
+<td>Georgia</td>
+<td>2,331</td>
+<td>10,556</td>
+</tr>
+<tr>
+<td>Hawaii</td>
+<td>17</td>
+<td>5,611</td>
+</tr>
+<tr>
+<td>Idaho</td>
+<td>1,324</td>
+<td>804,094</td>
+</tr>
+<tr>
+<td>Illinois</td>
+<td>18</td>
+<td>806</td>
+</tr>
+<tr>
+<td>Indiana</td>
+<td>16</td>
+<td>868</td>
+</tr>
+<tr>
+<td>Iowa</td>
+<td>533</td>
+<td>14,945</td>
+</tr>
+<tr>
+<td>Kansas</td>
+<td>154</td>
+<td>53,936</td>
+</tr>
+<tr>
+<td>Kentucky</td>
+<td>774</td>
+<td>19,207</td>
+</tr>
+<tr>
+<td>Louisiana</td>
+<td>1,172</td>
+<td>21,036</td>
+</tr>
+<tr>
+<td>Maine</td>
+<td>375</td>
+<td>574</td>
+</tr>
+<tr>
+<td>Maryland</td>
+<td>158</td>
+<td>1,078</td>
+</tr>
+<tr>
+<td>Massachusetts</td>
+<td>1,525</td>
+<td>1,763</td>
+</tr>
+<tr>
+<td>Michigan</td>
+<td>526</td>
+<td>3,806</td>
+</tr>
+<tr>
+<td>Minnesota</td>
+<td>1,849</td>
+<td>30,563</td>
+</tr>
+<tr>
+<td>Mississippi</td>
+<td>2,294</td>
+<td>34,769</td>
+</tr>
+<tr>
+<td>Missouri</td>
+<td>3,161</td>
+<td>29,893</td>
+</tr>
+<tr>
+<td>Montana</td>
+<td>2,432</td>
+<td>351,264</td>
+</tr>
+<tr>
+<td>Nebraska</td>
+<td>51</td>
+<td>4,854</td>
+</tr>
+<tr>
+<td>Nevada</td>
+<td>551</td>
+<td>42,479</td>
+</tr>
+<tr>
+<td>New Hampshire</td>
+<td>114</td>
+<td>622</td>
+</tr>
+<tr>
+<td>New Jersey</td>
+<td>1,013</td>
+<td>2,685</td>
+</tr>
+<tr>
+<td>New Mexico</td>
+<td>696</td>
+<td>44,104</td>
+</tr>
+<tr>
+<td>New York</td>
+<td>186</td>
+<td>3,844</td>
+</tr>
+<tr>
+<td>North Carolina</td>
+<td>3,828</td>
+<td>15,220</td>
+</tr>
+<tr>
+<td>North Dakota</td>
+<td>726</td>
+<td>32,321</td>
+</tr>
+<tr>
+<td>Ohio</td>
+<td>69</td>
+<td>548</td>
+</tr>
+<tr>
+<td>Oklahoma</td>
+<td>1,309</td>
+<td>100,382</td>
+</tr>
+<tr>
+<td>Oregon</td>
+<td>2,588</td>
+<td>685,809</td>
+</tr>
+<tr>
+<td>Pennsylvania</td>
+<td>831</td>
+<td>4,473</td>
+</tr>
+<tr>
+<td>Rhode Island</td>
+<td>86</td>
+<td>132</td>
+</tr>
+<tr>
+<td>South Carolina</td>
+<td>976</td>
+<td>3,800</td>
+</tr>
+<tr>
+<td>South Dakota</td>
+<td>1,032</td>
+<td>72,985</td>
+</tr>
+<tr>
+<td>Tennessee</td>
+<td>611</td>
+<td>8,478</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>9,272</td>
+<td>184,418</td>
+</tr>
+<tr>
+<td>Utah</td>
+<td>930</td>
+<td>10,203</td>
+</tr>
+<tr>
+<td>Vermont</td>
+<td>102</td>
+<td>346</td>
+</tr>
+<tr>
+<td>Virginia</td>
+<td>631</td>
+<td>6,574</td>
+</tr>
+<tr>
+<td>Washington</td>
+<td>2,013</td>
+<td>1,137,664</td>
+</tr>
+<tr>
+<td>West Virginia</td>
+<td>8</td>
+<td>219</td>
+</tr>
+<tr>
+<td>Wisconsin</td>
+<td>993</td>
+<td>2,970</td>
+</tr>
+<tr>
+<td>Wyoming</td>
+<td>512</td>
+<td>35,652</td>
+</tr>
+<tr>
+<td><strong>United States (2)</strong></td>
+<td><strong>68,151</strong></td>
+<td><strong>10,125,149</strong></td>
+</tr>
+</tbody></table>
+
+(1) Delaware had no wildfires in 2015.
+(2) Includes Puerto Rico which had 947 fires that burned 4,477 acres.
+
+Source: National Interagency Fire Center.</td></tr>
+</table></td> </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

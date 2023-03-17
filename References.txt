@@ -1,0 +1,4 @@
+https://www.nifc.gov/fire-information/statistics/wildfires 
+https://www.iii.org/table-archive/23284 - wildfires by state
+https://www.worldatlas.com/articles/the-officially-recognized-four-regions-and-nine-divisions-of-the-united-states.html - regions of USA
+https://firms.modaps.eosdis.nasa.gov/download/ - modis/viirs
