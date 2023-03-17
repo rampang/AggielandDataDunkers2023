@@ -1,4 +1,13 @@
 https://www.nifc.gov/fire-information/statistics/wildfires 
+
 https://www.iii.org/table-archive/23284 - wildfires by state
+
 https://www.worldatlas.com/articles/the-officially-recognized-four-regions-and-nine-divisions-of-the-united-states.html - regions of USA
+
 https://firms.modaps.eosdis.nasa.gov/download/ - modis/viirs
+
+https://www.fs.usda.gov/rds/archive/Catalog/RDS-2020-0016 - state fire catalog
+
+https://www.kaggle.com/datasets/behroozsohrabi/us-wildfire-records-6th-edition?select=data.csv - kaggle dataset
+Source:
+Short, Karen C. 2022. Spatial wildfire occurrence data for the United States, 1992-2020 [FPA_FOD_20221014]. 6th Edition. Fort Collins, CO: Forest Service Research Data Archive. https://doi.org/10.2737/RDS-2013-0009.6
