@@ -11,3 +11,33 @@ https://www.fs.usda.gov/rds/archive/Catalog/RDS-2020-0016 - state fire catalog
 https://www.kaggle.com/datasets/behroozsohrabi/us-wildfire-records-6th-edition?select=data.csv - kaggle dataset
 Source:
 Short, Karen C. 2022. Spatial wildfire occurrence data for the United States, 1992-2020 [FPA_FOD_20221014]. 6th Edition. Fort Collins, CO: Forest Service Research Data Archive. https://doi.org/10.2737/RDS-2013-0009.6
+
+US Census Bureau - population,median income, etc...
+https://imis.county.org/iMIS/CountyInformationProgram/QueriesCIP.aspx?QueryMenuSelectedKeyctl01_TemplateBody_WebPartManager1_gwpciNewQueryMenuCommon_ciNewQueryMenuCommon=01024814-3279-4a72-ae86-91c667f8d2af
+
+Vulnerable Populations and Wildfire Risk
+https://headwaterseconomics.org/apps/economic-profile-system/48000
+US Census Data
+American Community Survey
+
+Economics
+https://www.valuepenguin.com/homeowners-insurance/wildfire-statistics
+
+
+
+https://public.tableau.com/views/VulnerablePopulations_16799314425620/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link - wildfire impact on vulnerable populations
+
+https://public.tableau.com/views/WildfiresinUSA2000-2018_16791902070870/NamedWildfiresUSA2000-2018?:language=en-US&:display_count=n&:origin=viz_share_link - named wildfires in USA
+
+https://public.tableau.com/views/TexasCountyWildfireFocus/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link - texas county wildfire focus
+
+https://public.tableau.com/views/doi/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link - fire year, class, cause, by month and day and county map and state filter
+
+https://public.tableau.com/views/Fire_16776980457310/Summary?:language=en-US&:display_count=n&:origin=viz_share_link - fire cause, size, name and national density map 2002-2012
+                                                                                                                                         https://public.tableau.com/views/FireEconomics/FireEconDash?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link - wildifre economic impact and housing under threat
+
+https://public.tableau.com/app/profile/ram.pangaluri/viz/FireAcrePrediction/FireAcreForecasts?publish=yes - fire and acres regression prediction
+
+https://public.tableau.com/app/profile/ram.pangaluri/viz/FireStateRaceAnimation/USFireRace?publish=yes - fire state bar race animation
+
+https://public.tableau.com/app/profile/ram.pangaluri/viz/FireAcreGridAnimation/Bubble?publish=yes - fire acre grid animation
